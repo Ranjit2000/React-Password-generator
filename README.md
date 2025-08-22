@@ -42,3 +42,5 @@ This app allows you to:
     npm run dev
     ```
 
+
+Depolyed Link: https://react-password-generator-by-ranjit.netlify.app/
